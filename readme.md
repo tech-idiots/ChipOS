@@ -1,6 +1,6 @@
 # ChipOS
 ChipOS a OS sim made because of a man with a dream. TO MAKE A OS! now I can't code in asm but I can in python!
-
+[](https://img.shields.io/badge/github-repo-blue?logo=github)
 ## How to install
 First - Install python (if you don't have)!
 [Download Python](https://www.python.org/downloads/)
